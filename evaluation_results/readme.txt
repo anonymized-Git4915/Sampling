@@ -1,1 +1,0 @@
-Due to long processing times was the emd calculated in a seperat iteration.
